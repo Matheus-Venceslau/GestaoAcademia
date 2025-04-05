@@ -1,4 +1,4 @@
-## O sistema de gestão de academia com os pilares da POO:
+# O sistema de gestão de academia com os pilares da POO:
 
 - **Encapsulamento** protege os dados das classes `Cliente` e `Instrutor`.
 - **Herança** é aplicada com `Pessoa` sendo a classe pai de `Cliente` e `Instrutor`.
